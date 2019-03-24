@@ -50,3 +50,6 @@ const arrGreaterThan10 = (arr) => {
 
 
 console.log(arrGreaterThan10(numbers, isGreaterthan10));
+
+
+
